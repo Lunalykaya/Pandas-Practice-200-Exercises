@@ -10,7 +10,7 @@
 
 ## Структура
 
-* [`Глава 1_Объект Series.ipynb`](link) - практика работы с объектами `Series`
+* [`Глава 1_Объект Series.ipynb`](https://github.com/Lunalykaya/Pandas-Practice-200-Exercises/blob/main/%D0%93%D0%BB%D0%B0%D0%B2%D0%B0_1_%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_Series.ipynb) - практика работы с объектами `Series`
 
 
 *(список будет дополняться по мере выполнения упражнений)*
